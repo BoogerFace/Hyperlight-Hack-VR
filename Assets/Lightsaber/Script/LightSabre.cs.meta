@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0582ab8cd4e0a244c89954a153b4c73e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sabreMoving: {fileID: 8300000, guid: 5a4c657de98efdb4a9e3eb3e816a2895, type: 3}
+  - sabreOn: {fileID: 8300000, guid: 250bec26bb5bcc74090adb1e1887d69c, type: 3}
+  - sabreHum: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
